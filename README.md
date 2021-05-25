@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarhossainr&layout=compact" alt="akbarhossainr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarhossainr&show_icons=true" alt="akbarhossainr" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=akbarhossainr&show_icons=true" alt="akbarhossainr" /></p>
 
 <p align="center">
 <a href="https://twitter.com/akbarhossainr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akbarhossainr" height="30" width="30" /></a>
